@@ -1,4 +1,4 @@
-##斗地主牌型验证算法
+## 斗地主牌型验证算法
 
 本项目只是用来验证斗地主的各种牌型的算法，相当于工具类。不包含与客户端的交互以及打牌过程。请自行添加。
 
@@ -19,7 +19,7 @@ AbstractBattleDouDiZhu.java
 BattleDouDiZhu.java
 BattleDouDiZhu4.java
 ```
-用到的lib
+用到的lib（记录日志，不用可删除）
 ```
 org.slf4j.Logger
 ```
